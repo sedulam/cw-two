@@ -22,7 +22,7 @@ public interface IPrintHistory
 	 * Prints the history when the user got the answer right.
 	 * 
 	 * @param history
-	 * @param secretCode TODO
+	 * @param secretCode
 	 */
 	public void printSuccessHistory(IGuessHistory history, List<IPeg> secretCode);
 }

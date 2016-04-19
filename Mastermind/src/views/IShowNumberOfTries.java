@@ -8,7 +8,7 @@ public interface IShowNumberOfTries
 {
 	/**
 	 * Show the text
-	 * @param triesLeft TODO
+	 * @param triesLeft 
 	 */
 	public void show(int triesLeft);
 }
